@@ -1,0 +1,16 @@
+.nav {
+  background-color: red
+}
+
+.nav h1 {
+  display: inline-block;
+}
+
+.nav ul {
+  display: inline-block;
+}
+
+.nav li {
+  display: inline-block;
+  margin-right: 16px;
+}
